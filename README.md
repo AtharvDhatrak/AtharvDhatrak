@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AtharvDhatrak
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning dsa using python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning Backend using MERN 
+- 💞️ I’m looking to collaborate on front end related projects
+  
 
 <!---
 AtharvDhatrak/AtharvDhatrak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
